@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="silverHpGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#cbd5e1" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+  </defs>
+  <path d="M 110 200 C 100 70, 300 70, 290 200" fill="none" stroke="url(#silverHpGrad)" stroke-width="22" stroke-linecap="round" />
+  <path d="M 140 105 C 180 90, 220 90, 260 105" fill="none" stroke="#e2e8f0" stroke-width="16" stroke-linecap="round" />
+  <g transform="translate(75, 175)">
+    <rect x="10" y="0" width="50" height="95" rx="25" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" />
+    <rect x="0" y="10" width="18" height="75" rx="9" fill="#e2e8f0" />
+    <circle cx="35" cy="47" r="10" fill="none" stroke="#38bdf8" stroke-width="2" />
+  </g>
+  <g transform="translate(265, 175)">
+    <rect x="10" y="0" width="50" height="95" rx="25" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" />
+    <rect x="52" y="10" width="18" height="75" rx="9" fill="#e2e8f0" />
+    <circle cx="35" cy="47" r="10" fill="none" stroke="#38bdf8" stroke-width="2" />
+  </g>
+</svg>
