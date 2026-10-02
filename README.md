@@ -13,8 +13,8 @@
 
 ## Ссылки на опубликованный проект и репозиторий
 
-- **GitHub Pages:** `https://Dench377.github.io/kr1-html-css-shop/`  
-- **GitHub Repository:** `https://github.com/Dench377/kr1-html-css-shop`  
+- **GitHub Pages:** [https://dench377.github.io/kr1-html-css-shop/](https://dench377.github.io/kr1-html-css-shop/)  
+- **GitHub Repository:** [https://github.com/Dench377/kr1-html-css-shop](https://github.com/Dench377/kr1-html-css-shop)  
 
 ---
 
@@ -141,7 +141,7 @@ kr1-html-css-shop/
    ```
 3. В настройках репозитория на GitHub перейдите в **Settings -> Pages**:
    - В выпадающем меню **Branch** выберите `main`, папку `/ (root)`;
-   - Нажмите **Save**. Сайт станет доступен по адресу `https://Dench377.github.io/kr1-html-css-shop/`.
+   - Нажмите **Save**. Сайт станет доступен по адресу `https://dench377.github.io/kr1-html-css-shop/`.
 
 ---
 
